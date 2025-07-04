@@ -579,4 +579,7 @@ button:hover{
     .intro-div h1{
         font-size: 32px;
     }
+    #name{
+        margin-right: 0;
+    }
 }

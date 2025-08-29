@@ -380,6 +380,7 @@ main{
 }
 .event-card p{
     font-size: 14px;
+    font-style:italic;
 }
 .event-card:hover{
     transform: scale(1.02);
@@ -583,3 +584,4 @@ button:hover{
         margin-right: 0;
     }
 }
+
